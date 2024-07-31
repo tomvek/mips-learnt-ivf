@@ -150,13 +150,13 @@ python main_mips.py \
 
 If you find it useful, please consider citing the following paper:
 ```
-@misc{vecchiato2024learningtorankformulationclusteringbasedapproximate,
-      title={A Learning-to-Rank Formulation of Clustering-Based Approximate Nearest Neighbor Search}, 
-      author={Thomas Vecchiato and Claudio Lucchese and Franco Maria Nardini and Sebastian Bruch},
-      year={2024},
-      eprint={2404.11731},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR},
-      url={https://arxiv.org/abs/2404.11731}, 
-}
+@inproceedings{Vecchiato_2024, series={SIGIR 2024},
+   title={A Learning-to-Rank Formulation of Clustering-Based Approximate Nearest Neighbor Search},
+   url={http://dx.doi.org/10.1145/3626772.3657931},
+   DOI={10.1145/3626772.3657931},
+   booktitle={Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+   publisher={ACM},
+   author={Vecchiato, Thomas and Lucchese, Claudio and Nardini, Franco Maria and Bruch, Sebastian},
+   year={2024},
+   month=jul, collection={SIGIR 2024} }
 ```
